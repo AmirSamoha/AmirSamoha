@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirsamoha&label=Profile%20views&color=0e75b6&style=flat" alt="amirsamoha" /> </p>
 
-- 🌱 I’m currently learning **css, html and javascript.**
+Towards the end of the 500 hour Polstack course. Knowledgeable in various development languages, including JavaScript, HTML, and TypeScript. Also proficient in various frameworks, including MongoDB, Nodejs, and React. I work independently and in a team, and I'm always learning new things.
 
 - 📫 How to reach me **amir.samoha42@gmail.com**
 
