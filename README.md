@@ -5,25 +5,25 @@
 
 Towards the end of the 500 hour FullStack course. Knowledgeable in various development languages, including JavaScript, HTML, and TypeScript. Also proficient in various frameworks, including MongoDB, Nodejs, and React. I work independently and in a team, and I'm always learning new things.
 
-Experience
+# Experience
 
-# Web application and API development
-# Using various development languages, including JavaScript and TypeScript
-# Using different frameworks, including CSS, Tailwind, React and Nextjs
-# Using backend with Node, Express, MongoDb
-# Work independently and in a team
+Web application and API development
+Using various development languages, including JavaScript and TypeScript
+Using different frameworks, including CSS, Tailwind, React and Nextjs
+Using backend with Node, Express, MongoDb
+Work independently and in a team
 
-skills
+# skills
 
 Development languages: JavaScript, TypeScript, HTML
 Frameworks: Nextjs, MongoDb, React, Node
 Tools: Git, GitHub, Trello, Slack
 
-projects
+# projects
 
-# Web application for task management
-# Video Games API Details about each game and where to purchase
-# An online store where you can add and remove from the cart and purchase products
+Web application for task management
+Video Games API Details about each game and where to purchase
+An online store where you can add and remove from the cart and purchase products
 
 - 📫 How to reach me **amir.samoha42@gmail.com**
 
